@@ -1,11 +1,11 @@
 {
-    "name": "instagram_clone_flutter",
-    "short_name": "instagram_clone_flutter",
+    "name": "firechat",
+    "short_name": "firechat",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "description": "decentralized social media platform",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
